@@ -6,6 +6,6 @@ Created by:
 Joshua Yun
 January 28,2019 
 
-program usage instructions:
+Program usage instructions:
 javac TechTitan.java
-java TechTitan
+, java TechTitan
